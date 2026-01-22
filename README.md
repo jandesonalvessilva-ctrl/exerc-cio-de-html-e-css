@@ -3,7 +3,7 @@ Sou desenvolvedor em formação,focado em tecnologias Front-End(HTML5 e CSS3).
 Meu objetivo é criar soluções eficientes para o setores Bancário e de Saúde(Health tech)
 Minha base técnica está sendo contruida através do Curso em Video,sob orientação do professor
 (Gustavo Guanabara),onde busco excelência em semântica,acessibilidade e organização de código
-## meus projetos:##
+## meus projetos:
 * projeto vitalid(saúde)
 Ecossistema voltado para prontuários eletrônicos e gestão clinica.
 * NeoDev-TO (Saúde Infantil)
